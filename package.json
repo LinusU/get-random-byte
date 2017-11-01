@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "repository": "LinusU/get-random-byte",
+  "browser": "browser.js",
   "scripts": {
     "test": "standard"
   },
